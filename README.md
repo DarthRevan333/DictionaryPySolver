@@ -53,7 +53,7 @@ The primary solution used by the [main.py](main.py) file, which also provides th
 [^1]: Alternatively one can also use the code in another Python script by importing any required names. Most code contains a (small) documentation and everything should have clear enough names to be easily understandable.
 
 ### Using the [PyInstaller](https://pypi.org/project/pyinstaller/) executable
-1. Download the [executable from the releases section](https://github.com/DarthRevan333/DictionaryPySolver/releases/latest)
+1. Download the [executable from the releases section](https://github.com/PureRevan/DictionaryPySolver/releases/latest)
 
 2. Run the executable
 
